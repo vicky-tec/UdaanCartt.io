@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UdaanCart](https://vicky-tec.github.io/UdaanMart.io/)
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **GENERATIVE AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vicky-tec/](https://github.com/vicky-tec/)
 
